@@ -1,0 +1,23 @@
+{
+  "name": "websocket-starter",
+  "version": "1.0.0",
+  "description": "websocket-starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxihai123/websocket-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuxihai123/websocket-starter/issues"
+  },
+  "homepage": "https://github.com/xuxihai123/websocket-starter#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0"
+  }
+}
